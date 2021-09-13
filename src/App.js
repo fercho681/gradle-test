@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-Your k8as deployments are fully automated!!!.        </p>
+Your kas deployments are fully automated!!!.        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
